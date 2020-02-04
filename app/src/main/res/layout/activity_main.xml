@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:layout_editor_absoluteY="81dp">
+
+  <androidx.appcompat.widget.Toolbar
+    android:id="@+id/toolbar"
+    style="@style/Toolbar"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:title="@string/app_name"/>
+
+  <FrameLayout
+    android:id="@+id/lyContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?android:actionBarSize"
+    android:layout_marginBottom="?actionBarSize"
+    app:layout_constraintBottom_toTopOf="@+id/btmNavigation"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/toolbar"/>
+
+  <com.google.android.material.bottomnavigation.BottomNavigationView
+    android:id="@+id/btmNavigation"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"
+    android:background="?android:attr/windowBackground"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:menu="@menu/menu_bottom_navigation_main"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

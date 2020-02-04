@@ -1,0 +1,1147 @@
+{
+  "result": [
+    {
+      "backdrop_path": "/wMt4bVxsmcg4rIDKHd1jda4M0pj.jpg",
+      "created_by": [
+        {
+          "id": 944713,
+          "credit_id": "5be16ccc0e0a263d7300a335",
+          "name": "John Stainton",
+          "gender": 2,
+          "profile_path": "/edlP8AmPyRL20K9H9Sc0VrgU6aU.jpg"
+        },
+        {
+          "id": 559670,
+          "credit_id": "5be16cd20e0a263d7a00a138",
+          "name": "Steve Irwin",
+          "gender": 0,
+          "profile_path": "/5PfaA1sBLSNKAUFUv7197IPPtJU.jpg"
+        }
+      ],
+      "episode_run_time": [
+        44
+      ],
+      "first_air_date": "1997-04-05",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "",
+      "id": 1904,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2004-08-19",
+      "last_episode_to_air": {
+        "air_date": "2004-08-19",
+        "episode_number": 8,
+        "id": 120293,
+        "name": "They Shoot Crocodiles Don't They",
+        "overview": "Steve gives the viewers a look at the seven cameramen who have captured his encounters with wildlife throughout the years.",
+        "production_code": "",
+        "season_number": 8,
+        "show_id": 1904,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "The Crocodile Hunter",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Animal Planet",
+          "id": 91,
+          "logo_path": "/m3KrDu1g96YByhH0wp4OvyghgsG.png",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 73,
+      "number_of_seasons": 8,
+      "origin_country": [
+        "AU"
+      ],
+      "original_language": "en",
+      "original_name": "The Crocodile Hunter",
+      "overview": "The Crocodile Hunter is a wildlife documentary television series that was hosted by Steve Irwin and his wife Terri. The show became a popular franchise due to its unconventional approach and Irwin's approach to wildlife. It spawned a number of separate projects, including the feature film The Crocodile Hunter: Collision Course and two television spinoffs: The Crocodile Hunter Diaries and Croc Files. The series has been presented on Animal Planet and has been in international syndication on networks worldwide.",
+      "popularity": 3.695,
+      "poster_path": "/youExJaJ4EW8jjDllu0emOJAIKi.jpg",
+      "production_companies": [
+        {
+          "id": 68064,
+          "logo_path": null,
+          "name": "Best Picture Show Company, The",
+          "origin_country": ""
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "1996-10-25",
+          "episode_count": 4,
+          "id": 5483,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": null,
+          "episode_count": 12,
+          "id": 5481,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        },
+        {
+          "air_date": null,
+          "episode_count": 9,
+          "id": 5484,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2
+        },
+        {
+          "air_date": null,
+          "episode_count": 12,
+          "id": 5485,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/tASbyVawylGkIiwFr6kTjpVWl7S.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": null,
+          "episode_count": 11,
+          "id": 5486,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 4
+        },
+        {
+          "air_date": null,
+          "episode_count": 11,
+          "id": 5482,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 5
+        },
+        {
+          "air_date": null,
+          "episode_count": 5,
+          "id": 5487,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 6
+        },
+        {
+          "air_date": "2003-09-30",
+          "episode_count": 7,
+          "id": 5488,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 7
+        },
+        {
+          "air_date": "2004-02-06",
+          "episode_count": 6,
+          "id": 5489,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 8
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7,
+      "vote_count": 15
+    },
+    {
+      "backdrop_path": null,
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2017-04-12",
+      "genres": [],
+      "homepage": "https://www.youtube.com/playlist?list=PLThnUt_5q6GNoWQ0Mj1yh5sz_eLEa8KAG",
+      "id": 79999,
+      "in_production": false,
+      "languages": [
+        "fr"
+      ],
+      "last_air_date": "2017-04-12",
+      "last_episode_to_air": {
+        "air_date": "2017-04-12",
+        "episode_number": 1,
+        "id": 1500666,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 79999,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "La théorie du Y",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": null,
+      "number_of_seasons": 1,
+      "origin_country": [],
+      "original_language": "fr",
+      "original_name": "La théorie du Y",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/iFkz2q60uUmHxrovqSU4LjdIdeP.jpg",
+      "production_companies": [],
+      "seasons": [
+        {
+          "air_date": "2017-04-12",
+          "episode_count": 1,
+          "id": 104723,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Miniseries",
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "backdrop_path": "/jjKTtZZqI3ScvJQv1FzA0ajx1mM.jpg",
+      "created_by": [
+        {
+          "id": 1533186,
+          "credit_id": "563fb2e5c3a3681b54031939",
+          "name": "Blake Calhoun",
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        5
+      ],
+      "first_air_date": "2012-02-21",
+      "genres": [
+        {
+          "id": 878,
+          "name": "Science Fiction"
+        }
+      ],
+      "homepage": "https://www.youtube.com/user/ContinuumTheSeries",
+      "id": 56045,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2013-10-17",
+      "last_episode_to_air": {
+        "air_date": "2013-10-17",
+        "episode_number": 9,
+        "id": 1477393,
+        "name": "The Final Frontier",
+        "overview": "Raegen now has control over the Computer and readies the ship for its final mission. Tipton quietly considers his next step, which might just be his last.",
+        "production_code": "",
+        "season_number": 2,
+        "show_id": 56045,
+        "still_path": "/sZzyteGMSdJwEyvnb0swqeQC1BT.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Continuum",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "YouTube",
+          "id": 247,
+          "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 18,
+      "number_of_seasons": 2,
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "Continuum",
+      "overview": "A beautiful young woman awakens aboard an adrift space ship with no memory of who she is or how she got there and at the mercy of the ship's mysterious computer.",
+      "popularity": 1.602,
+      "poster_path": "/5TDhPeLOWwusPSQ8FXZ6EANyZx3.jpg",
+      "production_companies": [],
+      "seasons": [
+        {
+          "air_date": "2010-11-18",
+          "episode_count": 3,
+          "id": 58055,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2012-02-21",
+          "episode_count": 9,
+          "id": 58054,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        },
+        {
+          "air_date": "2013-08-01",
+          "episode_count": 9,
+          "id": 58056,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 2
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 6.7,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/ll5namMQxlY2o2OPf3kRnJou4qV.jpg",
+      "created_by": [],
+      "episode_run_time": [],
+      "first_air_date": "2013-02-09",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "homepage": "https://www.smithsonianchannel.com/shows/angkor-land-of-the-gods/1000038",
+      "id": 56046,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2013-02-09",
+      "last_episode_to_air": {
+        "air_date": "2013-02-09",
+        "episode_number": 2,
+        "id": 1436885,
+        "name": "Throne of Power",
+        "overview": "The most spectacular architectural wonders in Cambodia's ancient city of Angkor were built after its darkest days. Journey with us as we trace the rise of Jayavarman VII who, after being exiled, became king of the Khmer Empire following his defeat of the Champa kingdom. See how the sprawling city complex of Angkor Thom grew under his rule to support the vibrant and thriving Khmer civilization. Witness the palaces and temples he built, as they first appeared hundreds of years ago, before time and nature took its toll on this once great city.",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 56046,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Angkor: Land of the Gods",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Smithsonian Channel",
+          "id": 658,
+          "logo_path": "/ksVbshmQi14s6WCeaWHmTkTk1a.png",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 2,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Angkor: Land of the Gods",
+      "overview": "Buddhists, Hindus, and hundreds of thousands of travelers from around the globe flock to Cambodia every year to experience the grandeur of Angkor. Its famous temples were built over the span of five centuries by the rulers of the Khmer Empire, and endure today as one of Earth's greatest archaeological wonders. We peel away the myth and legend to uncover the hidden story behind the creation of this ancient city.",
+      "popularity": 0.6,
+      "poster_path": "/bS9lLbh5DrkUp8ZpG2F0MdD0NAU.jpg",
+      "production_companies": [
+        {
+          "id": 18893,
+          "logo_path": null,
+          "name": "Smithsonian Productions",
+          "origin_country": ""
+        },
+        {
+          "id": 18894,
+          "logo_path": null,
+          "name": "Smithsonian Channel",
+          "origin_country": "US"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2013-02-09",
+          "episode_count": 2,
+          "id": 58057,
+          "name": "Miniseries",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Miniseries",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/wCdCMP4RQ5kuEdk9zwZF4p4p7wg.jpg",
+      "created_by": [
+        {
+          "id": 68699,
+          "credit_id": "525731e8760ee3776a3560c0",
+          "name": "Mark McCorkle",
+          "gender": 2,
+          "profile_path": null
+        },
+        {
+          "id": 68700,
+          "credit_id": "582dba33c3a36879c100276e",
+          "name": "Bob Schooley",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        30,
+        22
+      ],
+      "first_air_date": "2002-06-07",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 35,
+          "name": "Comedy"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        }
+      ],
+      "homepage": "http://disneychannel.disney.com/kim-possible",
+      "id": 2345,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2007-09-07",
+      "last_episode_to_air": {
+        "air_date": "2007-09-07",
+        "episode_number": 23,
+        "id": 171301,
+        "name": "Graduation, Part 2",
+        "overview": "After both Kim and Drakken have been taken captive, Ron and Shego must race to rescue them from the clutches of Warmonga, Warhok, and the other invaders. All of the main characters must now band together to save the planet that they call home.",
+        "production_code": "422",
+        "season_number": 4,
+        "show_id": 2345,
+        "still_path": "/degVOkty7XSsKLcaZawDxPsA1km.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Kim Possible",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Disney Channel",
+          "id": 54,
+          "logo_path": "/rxhJszKVAvAZYTmF0vfRHfyo4Fb.png",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 91,
+      "number_of_seasons": 4,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Kim Possible",
+      "overview": "Kim Possible is an American animated action-adventure comedy television series about a teenage crime fighter who has the task of dealing with worldwide, family, and school issues every day. The show is action-oriented, but also has a light-hearted atmosphere and often lampoons the conventions and clichés of the secret-agent and action genres. It marked the second animated Disney Channel Original Series, and was the first series to be produced by Walt Disney Television Animation, in association with Disney Channel.\n\nKim Possible was the Disney Channel's longest running original animated series until it was surpassed by Phineas and Ferb.",
+      "popularity": 41.313,
+      "poster_path": "/oaRWMclwhn9G0NHzMQQUCr5SLdm.jpg",
+      "production_companies": [
+        {
+          "id": 3475,
+          "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+          "name": "Disney Television Animation",
+          "origin_country": "US"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2003-09-02",
+          "episode_count": 7,
+          "id": 7320,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": "/8wqH4A7jMnBv1USNaC0rtZPkGaU.jpg",
+          "season_number": 0
+        },
+        {
+          "air_date": "2002-06-07",
+          "episode_count": 21,
+          "id": 7318,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/ugJOye91eAWFVFXW9vHF1BhmpaY.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2003-07-18",
+          "episode_count": 33,
+          "id": 7316,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/qSGpvhtp9HvzXCda1gFJYZaBiW5.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2004-09-25",
+          "episode_count": 14,
+          "id": 7317,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/fWWkqtbeXbCyvtBJiHKx1W4ckiX.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2007-02-10",
+          "episode_count": 23,
+          "id": 7319,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/yvuZ9wTplmJT4I1VKlG3A9bvxst.jpg",
+          "season_number": 4
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 6.8,
+      "vote_count": 109
+    },
+    {
+      "backdrop_path": "/6TZIvsjHqyd9IZpxIMTEp6FwPyj.jpg",
+      "created_by": [
+        {
+          "id": 1653428,
+          "credit_id": "59c989bec3a3684dab0009ba",
+          "name": "Jordana Arkin",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "first_air_date": "2015-08-07",
+      "genres": [
+        {
+          "id": 10751,
+          "name": "Family"
+        }
+      ],
+      "homepage": "http://www.netflix.com/title/80058852",
+      "id": 63454,
+      "in_production": true,
+      "languages": [
+        "en",
+        "mo"
+      ],
+      "last_air_date": "2017-11-07",
+      "last_episode_to_air": {
+        "air_date": "2017-11-07",
+        "episode_number": 5,
+        "id": 1390712,
+        "name": "Family Affair",
+        "overview": "The girls suit up to make a scene at the Stone Water-sponsored Young Voices Awards, where McKeyla and Kyle finally talk face to face.",
+        "production_code": "",
+        "season_number": 6,
+        "show_id": 63454,
+        "still_path": "/1OL7QesO2eMWH88znnjoGEQzxl2.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Project Mc²",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Netflix",
+          "id": 213,
+          "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 26,
+      "number_of_seasons": 6,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "es",
+      "original_name": "Project Mc²",
+      "overview": "McKeyla, Adrienne, Bryden, and Camryn are four super smart and science-skilled girls recruited to join the spy organization, NOV8.",
+      "popularity": 6.74,
+      "poster_path": "/lRBO6PnocpDqCJvN8v5U4T7oBog.jpg",
+      "production_companies": [
+        {
+          "id": 41669,
+          "logo_path": null,
+          "name": "MGA Entertainment",
+          "origin_country": ""
+        },
+        {
+          "id": 30086,
+          "logo_path": "/74ufhzObVRahcRCbNKRVyxy3BXZ.png",
+          "name": "AwesomenessTV",
+          "origin_country": "US"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2016-12-29",
+          "episode_count": 1,
+          "id": 84386,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2015-08-07",
+          "episode_count": 3,
+          "id": 69130,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "2016-08-12",
+          "episode_count": 6,
+          "id": 79222,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "2016-10-14",
+          "episode_count": 6,
+          "id": 81085,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "2017-02-14",
+          "episode_count": 1,
+          "id": 85042,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 4
+        },
+        {
+          "air_date": "2017-09-15",
+          "episode_count": 5,
+          "id": 92800,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 5
+        },
+        {
+          "air_date": "2017-11-07",
+          "episode_count": 5,
+          "id": 94958,
+          "name": "Season 6",
+          "overview": "Teenage spy McKeyla teams up with three other super-smart girls to become secret agents who use their science and tech skills to save the day.",
+          "poster_path": "/uQqbadU61mvTa3DsEWVnfy07E5U.jpg",
+          "season_number": 6
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 7.3,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/4hPdWKU1dyepwTV3NefiVpknYnu.jpg",
+      "created_by": [
+        {
+          "id": 240845,
+          "credit_id": "55ba6c6e92514123db004b64",
+          "name": "Keita Amemiya",
+          "profile_path": "/9PkJo5Zcmb8tAvCGBTP2se9N58p.jpg"
+        }
+      ],
+      "episode_run_time": [
+        25
+      ],
+      "first_air_date": "2014-03-05",
+      "genres": [
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "homepage": "http://garo-project.jp/ZERO/",
+      "id": 63455,
+      "in_production": false,
+      "languages": [
+        "ja"
+      ],
+      "last_air_date": "2014-03-07",
+      "last_episode_to_air": {
+        "air_date": "2014-03-07",
+        "episode_number": 6,
+        "id": 1092636,
+        "name": "Savior",
+        "overview": "After explaining the Makai Knights' conduct with human lives when it appears he is planning to kill Iyu, Rei proceeds to fight Ring, who reveals that he left his feather behind on purpose so they can settle this in a battle of both blades and ideals. Even after Ring attempts to have the humans kill him, Rei refuses to stray from his ideals. Yuna and Kain arrive soon after, dealing with the Horrors before they find Iyu. Ultimately, Yuna lacks the will to kill her mother as Iyu uses sings to soothe her. This pacifies the angry mob as Ring finds Iyu singing for her daughter instead of for himself. This causes Ring to assume his true Horror form as ends up falling back into his instincts and devours Iyu after she refuses to sing for him. Once they get the other humans to safety, Rei dons the Zero armor to fight Ring on the back of his Madō Horse Ginga. Once Ring is crippled, Yuna makes her move to make the Horror bleed before being ordered by Zero to sing so they can pacify a healed Ring long enough to destroy him. With Ring no more, Rei tells Yuna that Iyu intentionally allowed Ring to kill her to atone for her actions. Soon after, as Yuna and Kain leave the city, Rei resumes his nightly patrol.",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 63455,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Zero: Black Blood",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "Family Gekijo",
+          "id": 2905,
+          "logo_path": null,
+          "origin_country": ""
+        }
+      ],
+      "number_of_episodes": 6,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "絶狼＜ZERO＞-BLACK BLOOD-",
+      "overview": "Ray Fujita stars as the lead character Rei Suzumura, the Silver Fanged Knight Zero, reprising his role as the character from the previous Garo television series and films. This series explores this character who served a supporting role in the previous productions and his investigation of a joint human and Horror commune led by the Horror Ring.",
+      "popularity": 1.166,
+      "poster_path": "/8lIhBSBe1S5RaJKwSwjjBzSCpFY.jpg",
+      "production_companies": [
+        {
+          "id": 1780,
+          "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+          "name": "Tohokushinsha Film Corporation",
+          "origin_country": "JP"
+        },
+        {
+          "id": 5808,
+          "logo_path": null,
+          "name": "Omnibus Japan",
+          "origin_country": "JP"
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2014-03-05",
+          "episode_count": 6,
+          "id": 69133,
+          "name": "Season 1",
+          "overview": "Zero: Black Blood is set after the events of the film Garo: Soukoku no Maryu. Rei Suzumura, Zero the Silver Fanged Knight, is patrolling on his own when he encounters the white Horror Ring, who has created a commune where Horrors and humans live together in harmony, so long as one human a month allows themselves to be devoured by the Horrors. Rei, along with Makai Priest Cain and the knight-in-training Yuna are ordered by the Makai Senate to slay Ring and free the humans under his thrall by means of Yuna's mother the Makai Priestess Iyu.",
+          "poster_path": "/ikyo68efGxUTReQGg4VGJokSlkt.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/cAGjYBGV0ewsFB1tGk5Y01vu2h2.jpg",
+      "created_by": [
+        {
+          "id": 1219144,
+          "credit_id": "52538b9719c295794024fc6c",
+          "name": "Blake Hunter",
+          "gender": 2,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [
+        23,
+        30
+      ],
+      "first_air_date": "1984-09-20",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "homepage": "",
+      "id": 634,
+      "in_production": false,
+      "languages": [
+        "en",
+        "hu"
+      ],
+      "last_air_date": "1992-04-25",
+      "last_episode_to_air": {
+        "air_date": "1992-04-25",
+        "episode_number": 24,
+        "id": 35869,
+        "name": "Savor the Veal (3)",
+        "overview": "Angela attempts to adjust to her new life in Iowa, but discovers that she really wants to be back east, working at her agency. The conflict of professional interest threatens to split up Tony and Angela.",
+        "production_code": "",
+        "season_number": 8,
+        "show_id": 634,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Who's the Boss?",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "ABC",
+          "id": 2,
+          "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+          "origin_country": "US"
+        }
+      ],
+      "number_of_episodes": 196,
+      "number_of_seasons": 8,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Who's the Boss?",
+      "overview": "Who's the Boss? is an American sitcom created by Martin Cohan and Blake Hunter, which aired on ABC from September 20, 1984 to April 25, 1992. Produced by Embassy Television, in association with Hunter-Cohan Productions, and Columbia Pictures Television, the series starred Tony Danza as a retired major league baseball player who relocates to Fairfield, Connecticut to work as a live-in housekeeper for a divorced advertising executive, played by Judith Light. Also featured were Alyssa Milano, Danny Pintauro, and Katherine Helmond.\n\nThe show received positive reviews throughout most of its run, becoming one of the most popular sitcoms of the mid-to-late-1980s. The series was nominated for more than forty awards, including ten Primetime Emmy Award and five Golden Globe Award nominations, winning each one. Also very successful in the ratings, Who's the Boss? consistently ranked in the top ten in the final primetime ratings between the years of 1985 and 1989, and has since continued in syndication worldwide.",
+      "popularity": 10.978,
+      "poster_path": "/qFQbV4mP4l8LGlqOmp46JThTTLL.jpg",
+      "production_companies": [],
+      "seasons": [
+        {
+          "air_date": null,
+          "episode_count": 7,
+          "id": 1915,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "1984-09-20",
+          "episode_count": 22,
+          "id": 1909,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": "/fbRspVejGNcSUWHLnLhA14xihT3.jpg",
+          "season_number": 1
+        },
+        {
+          "air_date": "1985-09-24",
+          "episode_count": 26,
+          "id": 1911,
+          "name": "Season 2",
+          "overview": "",
+          "poster_path": "/wvEQ4eWA2EnwYQEHLx6nqcgVx6k.jpg",
+          "season_number": 2
+        },
+        {
+          "air_date": "1986-09-23",
+          "episode_count": 24,
+          "id": 1910,
+          "name": "Season 3",
+          "overview": "",
+          "poster_path": "/7zPa32Z1Ynve3wD4mRE0RyFO5Ni.jpg",
+          "season_number": 3
+        },
+        {
+          "air_date": "1987-09-22",
+          "episode_count": 24,
+          "id": 1907,
+          "name": "Season 4",
+          "overview": "",
+          "poster_path": "/zhquuYXLR7IbLznYsKoZz6x0qxX.jpg",
+          "season_number": 4
+        },
+        {
+          "air_date": "1988-10-18",
+          "episode_count": 25,
+          "id": 1908,
+          "name": "Season 5",
+          "overview": "",
+          "poster_path": "/m3HO89T13jZ6Xgg5an2eu3KnOTT.jpg",
+          "season_number": 5
+        },
+        {
+          "air_date": "1989-09-19",
+          "episode_count": 26,
+          "id": 1912,
+          "name": "Season 6",
+          "overview": "",
+          "poster_path": "/s1Hj2XWdv12zdNepjuYJoj4V7o4.jpg",
+          "season_number": 6
+        },
+        {
+          "air_date": "1990-09-18",
+          "episode_count": 25,
+          "id": 1914,
+          "name": "Season 7",
+          "overview": "",
+          "poster_path": "/dqEjgOxiS0Uj78yFy5UtYF5jIqu.jpg",
+          "season_number": 7
+        },
+        {
+          "air_date": "1991-09-28",
+          "episode_count": 24,
+          "id": 1913,
+          "name": "Season 8",
+          "overview": "",
+          "poster_path": "/eZD0nHCN0ASy2p9obgKWIY9wApv.jpg",
+          "season_number": 8
+        }
+      ],
+      "status": "Ended",
+      "type": "Scripted",
+      "vote_average": 6.8,
+      "vote_count": 47
+    },
+    {
+      "backdrop_path": null,
+      "created_by": [
+        {
+          "id": 137098,
+          "credit_id": "55ba11fac3a3684af8004201",
+          "name": "Alexey Muradov",
+          "gender": 2,
+          "profile_path": "/juFN1t4mBPEP47A0cHZTPszydMB.jpg"
+        }
+      ],
+      "episode_run_time": [
+        45
+      ],
+      "first_air_date": "2010-03-01",
+      "genres": [],
+      "homepage": "",
+      "id": 63445,
+      "in_production": true,
+      "languages": [
+        "ru"
+      ],
+      "last_air_date": "2010-05-17",
+      "last_episode_to_air": {
+        "air_date": "2010-05-17",
+        "episode_number": 12,
+        "id": 1941543,
+        "name": "Episode 12",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 63445,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Tulskiy Tokarev",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 12,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Тульский Токарев",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/n9I6zc0RrH6cOnL6pBcoFfTaFiN.jpg",
+      "production_companies": [],
+      "seasons": [
+        {
+          "air_date": "2010-03-01",
+          "episode_count": 12,
+          "id": 69120,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        }
+      ],
+      "status": "Returning Series",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": null,
+      "created_by": [
+        {
+          "id": 128832,
+          "credit_id": "55b981b692514123e7002ee6",
+          "name": "Евгений Звездаков",
+          "gender": 0,
+          "profile_path": null
+        }
+      ],
+      "episode_run_time": [],
+      "first_air_date": "2004-07-01",
+      "genres": [],
+      "homepage": "",
+      "id": 63433,
+      "in_production": false,
+      "languages": [],
+      "last_air_date": "2004-07-01",
+      "last_episode_to_air": {
+        "air_date": "2004-07-01",
+        "episode_number": 1,
+        "id": 1092502,
+        "name": "Episode 1",
+        "overview": "",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 63433,
+        "still_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Кавалеры морской звезды",
+      "next_episode_to_air": null,
+      "networks": [],
+      "number_of_episodes": 1,
+      "number_of_seasons": 1,
+      "origin_country": [],
+      "original_language": "ru",
+      "original_name": "Кавалеры морской звезды",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/xUOiM2aSgzNCpjmIPHOUN70Rn1A.jpg",
+      "production_companies": [],
+      "seasons": [
+        {
+          "air_date": "2004-07-01",
+          "episode_count": 1,
+          "id": 69106,
+          "name": "Season 1",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 1
+        }
+      ],
+      "status": "Canceled",
+      "type": "Scripted",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/6KsSvYQsypVcOD6UZ3VHLvzmGYz.jpg",
+      "created_by": [],
+      "episode_run_time": [
+        60
+      ],
+      "first_air_date": "2013-12-10",
+      "genres": [
+        {
+          "id": 99,
+          "name": "Documentary"
+        }
+      ],
+      "homepage": "https://www.bbc.co.uk/programmes/b03n2yxq",
+      "id": 78642,
+      "in_production": false,
+      "languages": [
+        "en"
+      ],
+      "last_air_date": "2013-12-17",
+      "last_episode_to_air": {
+        "air_date": "2013-12-17",
+        "episode_number": 2,
+        "id": 1466481,
+        "name": "The Edwardian Home",
+        "overview": "Suzannah Lipscomb reveals the killers that lurked in every room of the Edwardian home.",
+        "production_code": "",
+        "season_number": 1,
+        "show_id": 78642,
+        "still_path": "/78Z3P6LL7DqOa9clvzq2SvumybK.jpg",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      "name": "Hidden Killers",
+      "next_episode_to_air": null,
+      "networks": [
+        {
+          "name": "BBC Four",
+          "id": 100,
+          "logo_path": "/lYk9QLeOO9RFuDz8pnW8NcoEL8B.png",
+          "origin_country": "GB"
+        }
+      ],
+      "number_of_episodes": 2,
+      "number_of_seasons": 1,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Hidden Killers",
+      "overview": "Suzannah Lipscomb reveals the killers that lurked in every room of the home.",
+      "popularity": 0.6,
+      "poster_path": "/dAa9miNuuUtFSmhBCaNPiL0QDSB.jpg",
+      "production_companies": [
+        {
+          "id": 83298,
+          "logo_path": null,
+          "name": "Modern Television",
+          "origin_country": ""
+        }
+      ],
+      "seasons": [
+        {
+          "air_date": "2013-04-03",
+          "episode_count": 3,
+          "id": 116980,
+          "name": "Specials",
+          "overview": "",
+          "poster_path": null,
+          "season_number": 0
+        },
+        {
+          "air_date": "2013-12-10",
+          "episode_count": 2,
+          "id": 102142,
+          "name": "Series 1",
+          "overview": "Suzannah Lipscomb reveals the killers that lurked in every room of the Victorian and Edwardian home.",
+          "poster_path": "/urOOPQTt7cU9POI3y1L6NStyWTg.jpg",
+          "season_number": 1
+        }
+      ],
+      "status": "Ended",
+      "type": "Documentary",
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ]
+}
